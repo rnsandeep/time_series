@@ -1,0 +1,2 @@
+1. https://github.com/khanhnamle1994/applied-machine-learning/blob/master/Time-Series-Forecasting/how_to_Grid_Search_ARIMA_model_hyperparameters_with_Python.ipynb
+2. https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b
